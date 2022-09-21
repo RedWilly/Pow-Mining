@@ -1,10 +1,9 @@
 import React, { useEffect } from "react";
-
 // @styled-component
 import { Layout } from "./WalletConnect.styled";
 
 // @web3-react
-import { useWeb3React } from "@web3-react/core";
+import { Web3ReactProvider, useWeb3React } from "@web3-react/core";
 import { injected, WalletConnect } from "../utils/Connectors";
 
 //------------------------------------------------------------------
@@ -16,12 +15,14 @@ export const WalletConnectt = () => {
     if (window.ethereum) {
       activate(injected);
     } else {
-      console.log("object");
       activate(WalletConnect);
     }
   };
 
   useEffect(() => {
+
+    connectInjected();
+
     (async () => {
       if (account && window.ethereum) {
         if (chainId !== 568) {
@@ -34,14 +35,15 @@ export const WalletConnectt = () => {
             });
           } catch (switchError) {
             console.log("Switch Error", switchError);
+            /*
             try {
               await library.provider.request({
                 method: "wallet_addEthereumChain",
                 params: [
                   {
-                    chainId: "0x" + (80001).toString(16),
-                    chainName: "DogeCHain Testnet",
-                    rpcUrls: ["https://rpc-testnet.dogechain.dog"],
+                    chainId: "0x" + (2000).toString(16),
+                    chainName: "DogeChain",
+                    rpcUrls: ["https://rpc.dogechain.dog"],
                     nativeCurrency: {
                       name: "DogeChain",
                       symbol: "wDOGE",
@@ -53,6 +55,8 @@ export const WalletConnectt = () => {
             } catch (addError) {
               console.log("Add Error", addError);
             }
+
+             */
           }
         }
       }
