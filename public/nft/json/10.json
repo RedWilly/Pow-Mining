@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #10",
+  "description": "This one is New",
+  "image": "#/10.png",
+  "dna": "760e236e8b150c1e315fa8076700602db691f1ec",
+  "edition": 10,
+  "date": 1663165620439,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG20"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated31"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW34"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak7"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Red Scarf"
+    }
+  ]
+}

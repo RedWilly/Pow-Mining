@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #305",
+  "description": "This one is New",
+  "image": "#/305.png",
+  "dna": "8f2769c24b69e856d27aa2d89cf54d645d9f609a",
+  "edition": 305,
+  "date": 1663165563102,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG13"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated3"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW50"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf"
+    }
+  ]
+}

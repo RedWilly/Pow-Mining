@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #228",
+  "description": "This one is New",
+  "image": "#/228.png",
+  "dna": "a5324df31c9bee7ce841a8a989ab347c0e07e9d1",
+  "edition": 228,
+  "date": 1663165753345,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG1"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated7"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW28"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak28"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "sweater 2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #266",
+  "description": "This one is New",
+  "image": "#/266.png",
+  "dna": "84c923823c2bf0c07477b9d9bdd0efdb55a9b945",
+  "edition": 266,
+  "date": 1663165635943,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG9"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated26"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW6"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak39"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Vest 3"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #129",
+  "description": "This one is New",
+  "image": "#/129.png",
+  "dna": "fde109f89a0402d9caf12f3b6f3ee0c8f6ef347c",
+  "edition": 129,
+  "date": 1663165503979,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG1"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated38"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW17"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Ice cream"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Mustache Beak Angry"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Red T Shirt"
+    }
+  ]
+}

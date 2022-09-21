@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #209",
+  "description": "This one is New",
+  "image": "#/209.png",
+  "dna": "01ccf04de1a7584b62744ee058780737a7e69084",
+  "edition": 209,
+  "date": 1663165739069,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG2"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated32"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW22"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Gold crown"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

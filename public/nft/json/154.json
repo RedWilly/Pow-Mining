@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #154",
+  "description": "This one is New",
+  "image": "#/154.png",
+  "dna": "e33aacb13267ef7396c7bbe83ed8683c9def9485",
+  "edition": 154,
+  "date": 1663165692075,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG28"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated27"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW23"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak28"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf 2"
+    }
+  ]
+}

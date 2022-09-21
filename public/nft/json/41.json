@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #41",
+  "description": "This one is New",
+  "image": "#/41.png",
+  "dna": "bc8f8240bc4de6a1748122d46788df99db9154e0",
+  "edition": 41,
+  "date": 1663165727320,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG10"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated22"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW27"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Orange cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak4"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf 4"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #256",
+  "description": "This one is New",
+  "image": "#/256.png",
+  "dna": "e7a4a5b5da34338126e944c302e636e9d8991d85",
+  "edition": 256,
+  "date": 1663165546110,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG20"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated30"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW36"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 1"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak22"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

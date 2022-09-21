@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #201",
+  "description": "This one is New",
+  "image": "#/201.png",
+  "dna": "6584c114771f199f086f101f6c302a48ad4c7fac",
+  "edition": 201,
+  "date": 1663165653758,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG18"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated17"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW40"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E10"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 1"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak33"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf"
+    }
+  ]
+}

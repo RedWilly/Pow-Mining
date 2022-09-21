@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #476",
+  "description": "This one is New",
+  "image": "#/476.png",
+  "dna": "9468dbd89a90ff6d4c39c9480bdd2dd87bef3894",
+  "edition": 476,
+  "date": 1663165563749,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG5"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated35"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW30"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E8"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Green Vest"
+    }
+  ]
+}

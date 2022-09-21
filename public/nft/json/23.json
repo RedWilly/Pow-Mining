@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #23",
+  "description": "This one is New",
+  "image": "#/23.png",
+  "dna": "4e7c26dcaba8a1ae8b06cfc5d7f7148b15b31bcb",
+  "edition": 23,
+  "date": 1663165636501,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG9"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated30"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW30"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Ice cream"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak35"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf 3"
+    }
+  ]
+}

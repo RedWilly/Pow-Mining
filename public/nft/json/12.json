@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #12",
+  "description": "This one is New",
+  "image": "#/12.png",
+  "dna": "c3e85987f1b909bfce76bfe18c7dcc572644aa5a",
+  "edition": 12,
+  "date": 1663165598198,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG9"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated4"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW25"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Orange cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak22"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf 1"
+    }
+  ]
+}

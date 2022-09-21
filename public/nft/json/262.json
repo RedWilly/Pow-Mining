@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #262",
+  "description": "This one is New",
+  "image": "#/262.png",
+  "dna": "a08dc1c1fa6abaaaa0a1292958644b015cee27db",
+  "edition": 262,
+  "date": 1663165525304,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG1"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated10"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW39"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Orange cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak5"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Red Suit"
+    }
+  ]
+}

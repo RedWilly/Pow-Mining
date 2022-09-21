@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #46",
+  "description": "This one is New",
+  "image": "#/46.png",
+  "dna": "33dee59351bff13736c66a4df95ae89e9cdb39fe",
+  "edition": 46,
+  "date": 1663165621638,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG1"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated11"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW34"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak26"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 6"
+    }
+  ]
+}

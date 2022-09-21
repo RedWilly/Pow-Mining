@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #99",
+  "description": "This one is New",
+  "image": "#/99.png",
+  "dna": "5f11151d640beaaf1c26b926a0818c33bae1b96b",
+  "edition": 99,
+  "date": 1663165632682,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG26"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated9"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW3"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E7"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak26"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Pink jacket"
+    }
+  ]
+}

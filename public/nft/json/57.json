@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #57",
+  "description": "This one is New",
+  "image": "#/57.png",
+  "dna": "dc4cd1e37900615894f496006b13cc1bc2219b68",
+  "edition": 57,
+  "date": 1663165640900,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG3"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated27"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW43"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Humor Jester"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak41"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Green Vest"
+    }
+  ]
+}

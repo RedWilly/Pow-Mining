@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #121",
+  "description": "This one is New",
+  "image": "#/121.png",
+  "dna": "5253245404cb1f478c2f08a7aa65e6a3d030a61c",
+  "edition": 121,
+  "date": 1663165706910,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG8"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated50"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW19"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak26"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Vest 1"
+    }
+  ]
+}

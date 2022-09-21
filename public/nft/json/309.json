@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #309",
+  "description": "This one is New",
+  "image": "#/309.png",
+  "dna": "67fc78706fd7db29815ec43592cbbed18b9258ef",
+  "edition": 309,
+  "date": 1663165693692,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG20"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated3"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW18"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E10"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Mustache Beak Angry"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Green jacket"
+    }
+  ]
+}

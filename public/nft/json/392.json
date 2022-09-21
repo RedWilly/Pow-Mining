@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #392",
+  "description": "This one is New",
+  "image": "#/392.png",
+  "dna": "33b6867904ab0fbdffd4f4f9d8be04bd8ad902cf",
+  "edition": 392,
+  "date": 1663165576467,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG4"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated8"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW11"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak33"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf 4"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #299",
+  "description": "This one is New",
+  "image": "#/299.png",
+  "dna": "f83315b8c1306a0c8ce495410a1f69bc3435b0e1",
+  "edition": 299,
+  "date": 1663165757770,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG26"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated37"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW37"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E9"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Humor Jester"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak26"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #217",
+  "description": "This one is New",
+  "image": "#/217.png",
+  "dna": "32d25f759399799222eeb137f917748521389e01",
+  "edition": 217,
+  "date": 1663165548811,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG3"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated33"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW38"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak49"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Red Scarf"
+    }
+  ]
+}

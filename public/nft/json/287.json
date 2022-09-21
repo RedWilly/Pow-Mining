@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #287",
+  "description": "This one is New",
+  "image": "#/287.png",
+  "dna": "2c9a50043b6844a9c097d69aead8c1f39f21ff4e",
+  "edition": 287,
+  "date": 1663165709958,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG19"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated15"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW25"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E2"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Saucepan"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak4"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 2"
+    }
+  ]
+}

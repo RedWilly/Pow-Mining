@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #285",
+  "description": "This one is New",
+  "image": "#/285.png",
+  "dna": "bd17dd52b333e7095d752230e833ede4ba8c09eb",
+  "edition": 285,
+  "date": 1663165722587,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG17"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated15"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW14"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak24"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

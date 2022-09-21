@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #182",
+  "description": "This one is New",
+  "image": "#/182.png",
+  "dna": "3cf3ff2b1cf6cc1d8f9259f72da75f927b11985f",
+  "edition": 182,
+  "date": 1663165603688,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG26"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated24"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW13"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Humor Jester"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Saliva"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Red Suit"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #347",
+  "description": "This one is New",
+  "image": "#/347.png",
+  "dna": "8e634ba146dd61c28d61b1ee2becfe818c321ef6",
+  "edition": 347,
+  "date": 1663165677209,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG30"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated46"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW7"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Straw"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

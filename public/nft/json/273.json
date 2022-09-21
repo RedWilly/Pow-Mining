@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #273",
+  "description": "This one is New",
+  "image": "#/273.png",
+  "dna": "db36b26d6e5779f2c477ab5af5fb9111315bbe53",
+  "edition": 273,
+  "date": 1663165517758,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG10"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated39"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW29"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green panama"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak20"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

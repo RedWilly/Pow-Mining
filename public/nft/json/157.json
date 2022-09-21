@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #157",
+  "description": "This one is New",
+  "image": "#/157.png",
+  "dna": "1c066b49219665524c884c8b96c5d267db421616",
+  "edition": 157,
+  "date": 1663165668509,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG4"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated17"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW5"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 2"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak29"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "sweater 1"
+    }
+  ]
+}

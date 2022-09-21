@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #55",
+  "description": "This one is New",
+  "image": "#/55.png",
+  "dna": "639b4c14fbf33f7ecf851f177b84f00a18958474",
+  "edition": 55,
+  "date": 1663165609180,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG21"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated30"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW23"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Saliva"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Bleu T Shirt"
+    }
+  ]
+}

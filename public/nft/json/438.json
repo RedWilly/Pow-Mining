@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #438",
+  "description": "This one is New",
+  "image": "#/438.png",
+  "dna": "ce296340a92f1ffc3784feb3d0a58329f0728f92",
+  "edition": 438,
+  "date": 1663165573597,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG4"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated40"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW13"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak1"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf 1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #333",
+  "description": "This one is New",
+  "image": "#/333.png",
+  "dna": "19d1178cbd04b4b5bf58f2980fe9bddc577dc619",
+  "edition": 333,
+  "date": 1663165544477,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG3"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated1"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW29"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Ancient 2"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Green Vest"
+    }
+  ]
+}

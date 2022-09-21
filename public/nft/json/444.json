@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #444",
+  "description": "This one is New",
+  "image": "#/444.png",
+  "dna": "01fa1f2ef159ddff8aeaf53f7e9700b5b40cfa25",
+  "edition": 444,
+  "date": 1663165701626,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG4"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated41"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW42"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak42"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf 2"
+    }
+  ]
+}

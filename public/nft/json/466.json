@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #466",
+  "description": "This one is New",
+  "image": "#/466.png",
+  "dna": "3d2874e8c1eefc01bb2ad7fea9cb6cc9821ffd02",
+  "edition": 466,
+  "date": 1663165755502,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG3"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated22"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW1"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Mustache Beak Angry"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 8"
+    }
+  ]
+}

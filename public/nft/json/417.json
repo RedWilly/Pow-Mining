@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #417",
+  "description": "This one is New",
+  "image": "#/417.png",
+  "dna": "a17b844d9e2e8366b61519adad00d4c9db38b088",
+  "edition": 417,
+  "date": 1663165622306,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG12"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated35"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW22"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak46"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Pink Shirt"
+    }
+  ]
+}

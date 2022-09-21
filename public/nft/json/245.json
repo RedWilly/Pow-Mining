@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #245",
+  "description": "This one is New",
+  "image": "#/245.png",
+  "dna": "2959e877824b08da7302d9f6827241fe7b96b997",
+  "edition": 245,
+  "date": 1663165737987,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG22"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated1"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW42"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Ice cream"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak41"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Vest 3"
+    }
+  ]
+}

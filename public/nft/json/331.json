@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #331",
+  "description": "This one is New",
+  "image": "#/331.png",
+  "dna": "52705470739250f97a2bc497f02daf4b2d1f7038",
+  "edition": 331,
+  "date": 1663165733901,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG21"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated31"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW49"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Gold crown"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Saliva"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf 4"
+    }
+  ]
+}

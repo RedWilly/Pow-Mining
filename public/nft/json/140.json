@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #140",
+  "description": "This one is New",
+  "image": "#/140.png",
+  "dna": "8590f8cbf4190071acee4ef5fdc02c1099777fca",
+  "edition": 140,
+  "date": 1663165532245,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG24"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated16"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW32"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green panama"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

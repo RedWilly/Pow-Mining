@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #5",
+  "description": "This one is New",
+  "image": "#/5.png",
+  "dna": "1eeef807af04beb9ed494fc9aec255eaa8d89816",
+  "edition": 5,
+  "date": 1663165524835,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG18"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated2"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW48"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 2"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak28"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 1"
+    }
+  ]
+}

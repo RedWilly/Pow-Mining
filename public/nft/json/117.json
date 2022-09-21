@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #117",
+  "description": "This one is New",
+  "image": "#/117.png",
+  "dna": "3ce85409c239880720275a11e7027b79fae477f6",
+  "edition": 117,
+  "date": 1663165542645,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG3"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated27"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW8"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E10"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak15"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

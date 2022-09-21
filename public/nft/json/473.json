@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #473",
+  "description": "This one is New",
+  "image": "#/473.png",
+  "dna": "ded110798bdcfc73248c1c35edec9e5cd345de87",
+  "edition": 473,
+  "date": 1663165737544,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG3"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated8"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW7"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green panama"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak32"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #376",
+  "description": "This one is New",
+  "image": "#/376.png",
+  "dna": "225e74bc7a55a5900e0657f9a1465eb7156d9f6f",
+  "edition": 376,
+  "date": 1663165695078,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG28"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated24"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW37"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

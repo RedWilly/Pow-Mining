@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #216",
+  "description": "This one is New",
+  "image": "#/216.png",
+  "dna": "2f362ab4b7bc30f33e15b44996732885bfe85069",
+  "edition": 216,
+  "date": 1663165520711,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG8"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated27"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW24"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green panama"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 4"
+    }
+  ]
+}

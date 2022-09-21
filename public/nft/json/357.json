@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #357",
+  "description": "This one is New",
+  "image": "#/357.png",
+  "dna": "9c386ee66ca83a7d66f4107ef8a74600c5d09710",
+  "edition": 357,
+  "date": 1663165613125,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG3"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated25"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW17"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Ice cream"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak9"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf"
+    }
+  ]
+}

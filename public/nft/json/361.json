@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #361",
+  "description": "This one is New",
+  "image": "#/361.png",
+  "dna": "985f7d44db423668523be8b98af667a2d4cb01d0",
+  "edition": 361,
+  "date": 1663165522533,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG9"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated50"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW25"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Saucepan"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak5"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Black Tanktop"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #446",
+  "description": "This one is New",
+  "image": "#/446.png",
+  "dna": "ae08550b8de93fb0e37217c6b893da87ecd882a6",
+  "edition": 446,
+  "date": 1663165650783,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG26"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated14"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW46"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak39"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Green Vest"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #313",
+  "description": "This one is New",
+  "image": "#/313.png",
+  "dna": "d6a71d2a292b3262764ea6ed4205e9606487fd78",
+  "edition": 313,
+  "date": 1663165665619,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG26"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated14"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW29"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Orange cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak26"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 8"
+    }
+  ]
+}

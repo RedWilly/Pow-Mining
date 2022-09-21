@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #75",
+  "description": "This one is New",
+  "image": "#/75.png",
+  "dna": "f75b7f516ce5131cff8c3126e1408553c1594bff",
+  "edition": 75,
+  "date": 1663165761281,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG20"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated22"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW28"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Orange cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak19"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

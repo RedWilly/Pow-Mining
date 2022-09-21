@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #58",
+  "description": "This one is New",
+  "image": "#/58.png",
+  "dna": "fa5f15779b635f429bba8289e47552183c4b6c9c",
+  "edition": 58,
+  "date": 1663165569424,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG21"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated48"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW10"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 2"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak12"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

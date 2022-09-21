@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #95",
+  "description": "This one is New",
+  "image": "#/95.png",
+  "dna": "2ab84e525dce4d7e72b22169090b30407d992232",
+  "edition": 95,
+  "date": 1663165534739,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG8"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated9"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW21"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak49"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Red Scarf"
+    }
+  ]
+}

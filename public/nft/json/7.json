@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #7",
+  "description": "This one is New",
+  "image": "#/7.png",
+  "dna": "5c53a90afcba050c49683a5b33d0f9d77180b488",
+  "edition": 7,
+  "date": 1663165515589,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG17"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated47"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW3"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E7"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak39"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

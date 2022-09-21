@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #79",
+  "description": "This one is New",
+  "image": "#/79.png",
+  "dna": "cf7d1a51045a3cc16e7fb4c007f4989a1b033387",
+  "edition": 79,
+  "date": 1663165536332,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG5"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated8"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW39"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E8"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 2"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak41"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 5"
+    }
+  ]
+}

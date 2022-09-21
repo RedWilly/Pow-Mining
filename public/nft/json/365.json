@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #365",
+  "description": "This one is New",
+  "image": "#/365.png",
+  "dna": "471a73841eb398e385cbd6118b593a8f298598c2",
+  "edition": 365,
+  "date": 1663165597250,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG19"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated42"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW32"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak28"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Green Vest"
+    }
+  ]
+}

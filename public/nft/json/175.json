@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #175",
+  "description": "This one is New",
+  "image": "#/175.png",
+  "dna": "a6dd40f5c3cc66b4a11878f5ee0d5501afba547d",
+  "edition": 175,
+  "date": 1663165725292,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG29"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated25"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW38"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Scarf"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #211",
+  "description": "This one is New",
+  "image": "#/211.png",
+  "dna": "a2a67d98de8539614c904479e03645f6884b9438",
+  "edition": 211,
+  "date": 1663165519564,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG27"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated3"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW19"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak25"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Vest 3"
+    }
+  ]
+}

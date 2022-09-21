@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #111",
+  "description": "This one is New",
+  "image": "#/111.png",
+  "dna": "c3d876e42fb8c37b9c3a2a0a69f646db3aba3560",
+  "edition": 111,
+  "date": 1663165696225,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG22"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated24"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW44"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak26"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Red Scarf"
+    }
+  ]
+}

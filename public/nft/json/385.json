@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #385",
+  "description": "This one is New",
+  "image": "#/385.png",
+  "dna": "6dfade09fa9dd83b450ad60102adf34bf480430a",
+  "edition": 385,
+  "date": 1663165553406,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG1"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated13"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW30"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak21"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

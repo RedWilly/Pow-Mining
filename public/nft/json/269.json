@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #269",
+  "description": "This one is New",
+  "image": "#/269.png",
+  "dna": "bb71bfc3c68b71b0f230f5f0bb510670180449f8",
+  "edition": 269,
+  "date": 1663165685918,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG27"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated38"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW26"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Ice cream"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak37"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 7"
+    }
+  ]
+}

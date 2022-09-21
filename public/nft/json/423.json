@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #423",
+  "description": "This one is New",
+  "image": "#/423.png",
+  "dna": "eeb5665704b68d0c066890af1fa5c13d640068ed",
+  "edition": 423,
+  "date": 1663165666622,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG25"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated7"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW26"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Gold crown"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak15"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #133",
+  "description": "This one is New",
+  "image": "#/133.png",
+  "dna": "3de3859318e1b3d076dbd385135bd55ec16c71f9",
+  "edition": 133,
+  "date": 1663165534358,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG18"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated35"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW50"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E6"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 1"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak50"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Green jacket"
+    }
+  ]
+}

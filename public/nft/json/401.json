@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #401",
+  "description": "This one is New",
+  "image": "#/401.png",
+  "dna": "8b5b69e3ed35ff76fe22756dfea95d70a1dfb9ad",
+  "edition": 401,
+  "date": 1663165702375,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG1"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated35"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW15"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Scarf"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak16"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

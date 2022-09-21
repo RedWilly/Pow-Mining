@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #50",
+  "description": "This one is New",
+  "image": "#/50.png",
+  "dna": "cb77817ed2796903adef9411d3c35eee891f42b5",
+  "edition": 50,
+  "date": 1663165634087,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG1"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated19"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW43"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 2"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak31"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf 1"
+    }
+  ]
+}

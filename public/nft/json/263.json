@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #263",
+  "description": "This one is New",
+  "image": "#/263.png",
+  "dna": "a8a2c332da5ddc0e1bf122f6b5a8e8e5ca584d97",
+  "edition": 263,
+  "date": 1663165592981,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG22"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated28"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW23"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E7"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak34"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 5"
+    }
+  ]
+}

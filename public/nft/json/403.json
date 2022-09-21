@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #403",
+  "description": "This one is New",
+  "image": "#/403.png",
+  "dna": "9cf9ba2aaa214e2899f08ebc25da89353e5cffd8",
+  "edition": 403,
+  "date": 1663165745268,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG3"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated47"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW41"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak26"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 7"
+    }
+  ]
+}

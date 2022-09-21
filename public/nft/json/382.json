@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #382",
+  "description": "This one is New",
+  "image": "#/382.png",
+  "dna": "0abae42d0d783f3c2d685250d896f538a346e88c",
+  "edition": 382,
+  "date": 1663165580727,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG17"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated50"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW26"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak12"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

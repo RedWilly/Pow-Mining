@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #3",
+  "description": "This one is New",
+  "image": "#/3.png",
+  "dna": "f2905a7815e4b0b26e3a72e2145c19e219fe48a2",
+  "edition": 3,
+  "date": 1663165649610,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG4"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated5"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW25"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 2"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak24"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

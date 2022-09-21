@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #115",
+  "description": "This one is New",
+  "image": "#/115.png",
+  "dna": "d655000f40786961b9356c2e32eba46e9d8528a9",
+  "edition": 115,
+  "date": 1663165533488,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG3"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated17"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW41"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green panama"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak28"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 9"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #274",
+  "description": "This one is New",
+  "image": "#/274.png",
+  "dna": "8539d7df9abbc48b9b18e28f0e043bef4e861e94",
+  "edition": 274,
+  "date": 1663165557134,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG7"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated9"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW33"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green panama"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak19"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "sweater 1"
+    }
+  ]
+}

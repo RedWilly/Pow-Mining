@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #433",
+  "description": "This one is New",
+  "image": "#/433.png",
+  "dna": "b8d9ffdbc2468a50060c990e541c19996f466111",
+  "edition": 433,
+  "date": 1663165755799,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG10"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated36"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW45"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E8"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Scarf"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak39"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

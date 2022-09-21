@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #105",
+  "description": "This one is New",
+  "image": "#/105.png",
+  "dna": "3d7288ae460b00ccfa113a4caed26e481410b33e",
+  "edition": 105,
+  "date": 1663165510843,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG8"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated23"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW5"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak41"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 2"
+    }
+  ]
+}

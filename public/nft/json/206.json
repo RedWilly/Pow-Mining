@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #206",
+  "description": "This one is New",
+  "image": "#/206.png",
+  "dna": "95efe2b897844d075e4526125b92fe82339af621",
+  "edition": 206,
+  "date": 1663165742506,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG21"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated20"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW50"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak20"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "sweater 2"
+    }
+  ]
+}

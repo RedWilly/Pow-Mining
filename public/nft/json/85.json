@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #85",
+  "description": "This one is New",
+  "image": "#/85.png",
+  "dna": "02f9e97aa5c09996905508ae73c347bd164e68d0",
+  "edition": 85,
+  "date": 1663165708424,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG24"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated15"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW10"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Ice cream"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak36"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 6"
+    }
+  ]
+}

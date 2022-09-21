@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #443",
+  "description": "This one is New",
+  "image": "#/443.png",
+  "dna": "a0212d4c6a2054e7d25a47328621b80b328791bb",
+  "edition": 443,
+  "date": 1663165547705,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG30"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated6"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW15"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E2"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak46"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 6"
+    }
+  ]
+}

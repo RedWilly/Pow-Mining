@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #214",
+  "description": "This one is New",
+  "image": "#/214.png",
+  "dna": "7ad6f92ba70d11ae2413b50e7c1429c8dd621a8d",
+  "edition": 214,
+  "date": 1663165749839,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG14"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated46"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW28"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak37"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 2"
+    }
+  ]
+}

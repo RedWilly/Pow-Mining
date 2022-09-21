@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #257",
+  "description": "This one is New",
+  "image": "#/257.png",
+  "dna": "ad4c909a563cef6c273c6ff0cf3b5f43ce6a8841",
+  "edition": 257,
+  "date": 1663165735234,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG1"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated10"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW12"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Gold crown"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak47"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 10"
+    }
+  ]
+}

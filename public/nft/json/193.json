@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #193",
+  "description": "This one is New",
+  "image": "#/193.png",
+  "dna": "a7a5c80d6daca40985a30cdcd6fc04ad3c6336df",
+  "edition": 193,
+  "date": 1663165742041,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG28"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated26"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW7"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E6"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 2"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak41"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf"
+    }
+  ]
+}

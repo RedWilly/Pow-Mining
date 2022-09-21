@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #292",
+  "description": "This one is New",
+  "image": "#/292.png",
+  "dna": "31655ada636dd4fd7e74259141185ff6986b9e9b",
+  "edition": 292,
+  "date": 1663165621076,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG19"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated45"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW35"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Horns 2"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak37"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Blue Shirt"
+    }
+  ]
+}

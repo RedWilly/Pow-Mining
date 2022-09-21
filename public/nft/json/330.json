@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #330",
+  "description": "This one is New",
+  "image": "#/330.png",
+  "dna": "faac9f30478f60c02f5b3137d826f46f44fe5085",
+  "edition": 330,
+  "date": 1663165697848,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG5"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated44"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW23"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Humor Jester"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak13"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 6"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #409",
+  "description": "This one is New",
+  "image": "#/409.png",
+  "dna": "6e1200810fa8cf2aebdad9264a6e21e1c45a1198",
+  "edition": 409,
+  "date": 1663165688803,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG3"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated36"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW9"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak5"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Red T Shirt"
+    }
+  ]
+}

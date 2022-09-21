@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #414",
+  "description": "This one is New",
+  "image": "#/414.png",
+  "dna": "2a32d34de56b66ebec8eb7b5d239e264e39ac0c3",
+  "edition": 414,
+  "date": 1663165741532,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG19"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated13"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW37"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Ice cream"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak44"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "N"
+    }
+  ]
+}

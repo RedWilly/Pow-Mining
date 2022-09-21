@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #408",
+  "description": "This one is New",
+  "image": "#/408.png",
+  "dna": "0e4ce3d58bec3b276c534f290b6132b3207d75ab",
+  "edition": 408,
+  "date": 1663165747846,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG30"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated46"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW29"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak7"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 9"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #374",
+  "description": "This one is New",
+  "image": "#/374.png",
+  "dna": "0bab77a52dddfeb8ef2ee6d8d29faaf6abbfd176",
+  "edition": 374,
+  "date": 1663165742966,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG18"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated36"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW29"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E4"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak13"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 5"
+    }
+  ]
+}

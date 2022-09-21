@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #486",
+  "description": "This one is New",
+  "image": "#/486.png",
+  "dna": "04b3bbca921e02440bbee15b6e2a024e0ba8438a",
+  "edition": 486,
+  "date": 1663165552393,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG19"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated44"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW47"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green cap"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak47"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Vest 3"
+    }
+  ]
+}

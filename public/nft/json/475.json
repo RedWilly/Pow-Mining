@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #475",
+  "description": "This one is New",
+  "image": "#/475.png",
+  "dna": "b42c2a43f56c6dc9039b09056d5e888fa4d2273e",
+  "edition": 475,
+  "date": 1663165541081,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG1"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated28"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW12"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Green panama"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak7"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 8"
+    }
+  ]
+}

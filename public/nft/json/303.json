@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #303",
+  "description": "This one is New",
+  "image": "#/303.png",
+  "dna": "d5f9c8738105ed86bb71fe27717a980e7b58bb86",
+  "edition": 303,
+  "date": 1663165691393,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG17"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated47"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW31"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak47"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

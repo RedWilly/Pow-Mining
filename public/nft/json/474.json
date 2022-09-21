@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #474",
+  "description": "This one is New",
+  "image": "#/474.png",
+  "dna": "ae29ab7a686f3de6c52e8a3e47f77c2808b5f7be",
+  "edition": 474,
+  "date": 1663165579480,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG2"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated42"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW26"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak37"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Scarf 3"
+    }
+  ]
+}

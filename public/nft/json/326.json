@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #326",
+  "description": "This one is New",
+  "image": "#/326.png",
+  "dna": "aa7d29776e3d42ad763e4efbd80436a11ba72cf6",
+  "edition": 326,
+  "date": 1663165631671,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG30"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated48"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW25"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E5"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Saucepan"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak22"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 7"
+    }
+  ]
+}

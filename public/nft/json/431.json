@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #431",
+  "description": "This one is New",
+  "image": "#/431.png",
+  "dna": "90469d967baee946366b4d56f5dd1ee1f29e5e8b",
+  "edition": 431,
+  "date": 1663165716534,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG11"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated26"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW42"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak26"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Gold chain"
+    }
+  ]
+}

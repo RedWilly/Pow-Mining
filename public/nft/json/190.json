@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #190",
+  "description": "This one is New",
+  "image": "#/190.png",
+  "dna": "7f7520fc09d2019dcc6e433b852bce49452125ef",
+  "edition": 190,
+  "date": 1663165754083,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG19"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated11"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW35"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E3"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak19"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Tanktop 8"
+    }
+  ]
+}

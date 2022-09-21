@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #52",
+  "description": "This one is New",
+  "image": "#/52.png",
+  "dna": "5674d6532ffe6c05d95f3dca0567e16b2ba33ff8",
+  "edition": 52,
+  "date": 1663165501061,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG15"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated43"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW27"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E6"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Ice cream"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak30"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "None"
+    }
+  ]
+}

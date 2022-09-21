@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #173",
+  "description": "This one is New",
+  "image": "#/173.png",
+  "dna": "9ea2602269a71aa8a5d2159d2f9434ad3db58c2a",
+  "edition": 173,
+  "date": 1663165757395,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG11"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated2"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW37"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E1"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Gold crown"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak3"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Pink Shirt"
+    }
+  ]
+}

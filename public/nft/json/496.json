@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #496",
+  "description": "This one is New",
+  "image": "#/496.png",
+  "dna": "6eb2ff82e806ba9ef3e9ebaea6244fa7d04c8a81",
+  "edition": 496,
+  "date": 1663165600556,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG12"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated45"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW49"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E9"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Humor Jester"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak37"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Bleu T Shirt"
+    }
+  ]
+}

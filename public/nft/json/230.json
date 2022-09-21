@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #230",
+  "description": "This one is New",
+  "image": "#/230.png",
+  "dna": "cb0d56cf6e5a3b83721ea286a4f061c6dc171720",
+  "edition": 230,
+  "date": 1663165760008,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG8"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated48"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW33"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E6"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Saucepan"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak18"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Bleu T Shirt"
+    }
+  ]
+}

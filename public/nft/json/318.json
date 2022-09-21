@@ -1,0 +1,38 @@
+{
+  "name": "Mutants #318",
+  "description": "This one is New",
+  "image": "#/318.png",
+  "dna": "441063a323d22b789134c752130a467442dbef46",
+  "edition": 318,
+  "date": 1663165587159,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG15"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Mutated30"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "CW37"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "E6"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "Gold crown"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Beak34"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Pink Shirt"
+    }
+  ]
+}
