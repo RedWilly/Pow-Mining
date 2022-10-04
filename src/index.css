@@ -32,10 +32,32 @@ img {
 }
 
 .selected {
-  background: #000;
+  /* background: #000; */
+  border: 2px solid;
+  border-color: #07fea3;
   padding-left: 30px;
   padding-right: 30px;
   padding-top: 10px;
   padding-bottom: 10px;
-  border-radius: 10px;
+  cursor: pointer;
+  /* border-radius: 10px; */
+}
+
+.not-selected {
+  border: 2px solid;
+  /* border-color: #fff; */
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.connect-wallet-btn {
+  border: 2px solid;
+  border-color: #07fea3;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
