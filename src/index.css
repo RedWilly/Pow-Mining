@@ -34,7 +34,7 @@ img {
 .selected {
   /* background: #000; */
   border: 2px solid;
-  border-color: #07fea3;
+  border-color: #fe009c;
   padding-left: 30px;
   padding-right: 30px;
   padding-top: 10px;
@@ -55,7 +55,7 @@ img {
 
 .connect-wallet-btn {
   border: 2px solid;
-  border-color: #07fea3;
+  border-color: #fe009c;
   padding-left: 30px;
   padding-right: 30px;
   padding-top: 10px;
