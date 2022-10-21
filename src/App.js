@@ -58,7 +58,7 @@ function App() {
         nftContract.balanceOf(stakingProxyCA).then((balance) => {
           setTotalStaked(balance.toString());
           setTotalStakedPercentage(
-            Math.round((parseInt(balance.toString()) / 8888) * 10000) / 100
+            Math.round((parseInt(balance.toString()) / 2100) * 10000) / 100
           );
         });
 
