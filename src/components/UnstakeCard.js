@@ -23,7 +23,7 @@ export const UnstakeCard = (props) => {
         height="280"
       ></img>
       <div className="mt-4 flex-col justify-center items-center">
-        <p className="bold ml-[-100px]">Mutants #{props.tokenId}</p>
+        <p className="bold ml-[-100px]">POW Pirates #{props.tokenId}</p>
         <div className="flex justify-between items-center space-x-2 mt-2 mb-2">
           <button className="stake-button bg-black w-[100%] rounded-3xl px-6 py-1" onClick={() => { unstake(props.tokenId) }}>
             Unstake

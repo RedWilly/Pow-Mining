@@ -122,7 +122,7 @@ function App() {
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
                         <img
-                          className="w-[15px] h-[15px] bg-[#07FEA3] p-[1.5px]"
+                          className="w-[15px] h-[15px] bg-[#fe009c] p-[1.5px]"
                           src={icon1}
                           alt=""
                         />
@@ -140,7 +140,7 @@ function App() {
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
                         <img
-                          className="w-[15px] h-[15px] bg-[#07FEA3] p-[1px]"
+                          className="w-[15px] h-[15px] bg-[#fe009c] p-[1px]"
                           src={icon2}
                           alt=""
                         />
@@ -159,7 +159,7 @@ function App() {
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
                         <img
-                          className="w-[15px] h-[15px] bg-[#07FEA3] p-[1.5px]"
+                          className="w-[15px] h-[15px] bg-[#fe009c] p-[1.5px]"
                           src={icon1}
                           alt=""
                         />
@@ -185,7 +185,7 @@ function App() {
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
                         <img
-                          className="w-[15px] h-[15px] bg-[#07FEA3] p-[1.5px]"
+                          className="w-[15px] h-[15px] bg-[#fe009c] p-[1.5px]"
                           src={icon3}
                           alt=""
                         />
@@ -203,7 +203,7 @@ function App() {
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
                         <img
-                          className="w-[15px] h-[15px] bg-[#07FEA3] p-[1.5px]"
+                          className="w-[15px] h-[15px] bg-[#fe009c] p-[1.5px]"
                           src={icon4}
                           alt=""
                         />
@@ -222,7 +222,7 @@ function App() {
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
                         <img
-                          className="w-[15px] h-[15px] bg-[#07FEA3] p-[1.5px]"
+                          className="w-[15px] h-[15px] bg-[#fe009c] p-[1.5px]"
                           src={icon5}
                           alt=""
                         />
@@ -234,9 +234,9 @@ function App() {
                   <p>{earnings} $POWP</p>
                 </div>
               </div>
-
+              
               <button
-                className="stake-button bg-[#07fea3] w-[100%] px-20 mt-3 mb-1 py-2 text-black font-bold"
+                className="stake-button bg-[#fe009c] w-[100%] px-20 mt-3 mb-1 py-2 text-black font-bold"
                 onClick={() => {
                   harvest();
                 }}
