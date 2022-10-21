@@ -1,12 +1,13 @@
 import styled from "styled-components";
-
+//#fe009c - new
 //----------------------------------------------------
-
+//old- #07fea3
 export const Layout = styled.div`
   width: 140px;
   height: 45px;
 
-  background: #07fea3;
+  background: #fe009c;
+  
 
   font-size: 16px;
   font-weight: 800;
@@ -21,7 +22,7 @@ export const Layout = styled.div`
 
   :hover {
     box-shadow: inset 140px 0 0 0 white;
-    color: #07fea3;
+    color: #fe009c;
   }
 
   @media screen and (max-width: 570px) {

@@ -43,7 +43,7 @@ export const Container = styled.div`
   }
 `;
 export const Logo = styled.div`
-  color: #07fea3;
+  color: #fe009c;
 
   font-size: 30px;
   font-weight: 900;
@@ -104,7 +104,7 @@ export const MobileMenuButton = styled.div`
     align-items: center;
     justify-content: center;
 
-    background: #07fea3;
+    background: #fe009c;
 
     cursor: pointer;
 
@@ -112,7 +112,7 @@ export const MobileMenuButton = styled.div`
 
     :hover {
       box-shadow: inset 50px 0 0 0 white;
-      color: #07fea3;
+      color: #fe009c;
     }
   }
   @media screen and (max-width: 570px) {
@@ -207,6 +207,6 @@ export const MobileMenuItem = styled.a`
   font-weight: 500;
   padding: 5px 0px;
   :hover {
-    color: #07fea3;
+    color: #fe009c;
   }
 `;
