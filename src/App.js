@@ -27,6 +27,7 @@ function App() {
   const [totalStaked, setTotalStaked] = useState(0);
   const [totalStakedPercentage, setTotalStakedPercentage] = useState(0);
   const [totalPayout, setTotalPayout] = useState(0);
+  const [myPower, setMyPower] = useState(0);
   const [rate, setRate] = useState(0);
   const [balance, setBalance] = useState(0);
 
@@ -84,6 +85,9 @@ function App() {
           setRate(
             parseFloat(ethers.utils.formatEther(rate.toString())).toFixed(2)
           );
+        });
+        stakeContract.stakerPower(account).then((power) => {
+          setMyPower(power / 100);
         });
 
         stakeContract.depositsOf(account).then((deposits) => {
@@ -148,11 +152,10 @@ function App() {
                       <span>My Token Balance</span>
                     </div>
                   </h2>
-
                   <p>{balance} $POWP</p>
                 </div>
               </div>
-              <div className="flex justify-start items-center">
+              <div className="flex justify-between items-center">
                 {/* 3 */}
                 <div className="flex-col justify-between items-center">
                   <h2 className="text-lg">
@@ -167,8 +170,24 @@ function App() {
                       <span>The Total Staked</span>
                     </div>
                   </h2>
-
                   <p>{totalStakedPercentage}%</p>
+                </div>
+
+                {/* 4 */}
+                <div className="flex-col justify-between items-center">
+                  <h2 className="text-lg">
+                    <div className="flex justify-center items-center space-x-3">
+                      <span className="ml-[-27px]">
+                        <img
+                            className="w-[15px] h-[15px] bg-[#fe009c] p-[1px]"
+                            src={icon2}
+                            alt=""
+                        />
+                      </span>{" "}
+                      <span>My Power</span>
+                    </div>
+                  </h2>
+                  <p>{myPower}</p>
                 </div>
               </div>
             </div>
