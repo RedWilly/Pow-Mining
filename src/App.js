@@ -131,7 +131,7 @@ function App() {
                     </div>
                   </h2>
 
-                  <p>{totalStaked}/8888</p>
+                  <p>{totalStaked} / 2100</p>
                 </div>
 
                 {/* 2 */}

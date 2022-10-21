@@ -3,7 +3,7 @@ import { InjectedConnector } from "@web3-react/injected-connector";
 import { WalletConnectConnector } from "@web3-react/walletconnect-connector";
 
 export const injected = new InjectedConnector({
-  supportedChainIds: [568],
+  supportedChainIds: [10001],
 });
 
 // export const WalletConnect = new WalletConnectConnector({
@@ -14,6 +14,6 @@ export const injected = new InjectedConnector({
 
 export const WalletConnect = new WalletConnectConnector({
   rpc: {
-    568: "https://rpc-testnet.dogechain.dog",
+    10001: "https://mainnet.ethereumpow.org",
   },
 });

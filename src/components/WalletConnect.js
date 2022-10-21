@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 import { Layout } from "./WalletConnect.styled";
 
 // @web3-react
-import { Web3ReactProvider, useWeb3React } from "@web3-react/core";
+import { useWeb3React } from "@web3-react/core";
 import { injected, WalletConnect } from "../utils/Connectors";
 
 //------------------------------------------------------------------
@@ -25,13 +25,13 @@ export const WalletConnectt = () => {
 
     (async () => {
       if (account && window.ethereum) {
-        if (chainId !== 568) {
-          console.log(chainId, 568);
+        if (chainId !== 10001) {
+          console.log(chainId, 10001);
           console.log(account);
           try {
             await library.provider.request({
               method: "wallet_switchEthereumChain",
-              params: [{ chainId: "0x" + (568).toString(16) }],
+              params: [{ chainId: "0x" + (10001).toString(16) }],
             });
           } catch (switchError) {
             console.log("Switch Error", switchError);
