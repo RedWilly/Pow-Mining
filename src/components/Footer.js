@@ -6,7 +6,7 @@ import { Layout } from "./Footer.styled";
 //------------------------------------------------------------------
 
 const Footer = () => {
-  return <Layout>© 2022 Mutants</Layout>;
+  return <Layout>© 2022 POW Pirates</Layout>;
 };
 
 export default Footer;

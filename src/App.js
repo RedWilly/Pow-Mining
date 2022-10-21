@@ -127,7 +127,7 @@ function App() {
                           alt=""
                         />
                       </span>{" "}
-                      <span>Mutants Staked</span>
+                      <span>Pirates Staked</span>
                     </div>
                   </h2>
 
@@ -149,7 +149,7 @@ function App() {
                     </div>
                   </h2>
 
-                  <p>{balance} $MUT</p>
+                  <p>{balance} $POWP</p>
                 </div>
               </div>
               <div className="flex justify-start items-center">
@@ -194,7 +194,7 @@ function App() {
                     </div>
                   </h2>
 
-                  <p>{rate} $MUT/block</p>
+                  <p>{rate} $POWP/block</p>
                 </div>
 
                 {/* 2 */}
@@ -212,7 +212,7 @@ function App() {
                     </div>
                   </h2>
 
-                  <p>{totalPayout} $MUT</p>
+                  <p>{totalPayout} $POWP</p>
                 </div>
               </div>
               <div className="flex justify-start items-center">
@@ -231,7 +231,7 @@ function App() {
                     </div>
                   </h2>
 
-                  <p>{earnings} $MUT</p>
+                  <p>{earnings} $POWP</p>
                 </div>
               </div>
 
@@ -241,7 +241,7 @@ function App() {
                   harvest();
                 }}
               >
-                Claim {earnings} $MUT
+                Claim {earnings} $POWP
               </button>
             </div>
           </div>

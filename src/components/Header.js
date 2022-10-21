@@ -55,7 +55,7 @@ export const Header = () => {
     <Layout>
       <Container>
         <Logo data-aos="zoom-in" onClick={() => {}}>
-          Mutants
+          POW Pirates
         </Logo>
         <Menu>
           {MenuItemList.map((item, index) => (
