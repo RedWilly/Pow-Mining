@@ -1,22 +1,14 @@
 export const MenuItemList = [
   {
     label: "HOME",
-    link: "https://mutants.one/",
+    link: "https://powpirates.com/",
   },
   {
-    label: "WHITEPAPER",
-    link: "docs.mutants.one",
+    label: "Litepaper",
+    link: "https://powpirates.com/WhitePaper",
   },
   {
-    label: "ABOUT",
-    link: "https://mutants.one/#about",
-  },
-  {
-    label: "ROADMAP",
-    link: "#roadmap",
-  },
-  {
-    label: "MARKETPLACE",
-    link: "https://oasis-nft.dog/collection/",
+    label: "Marketplace",
+    link: "https://nuwton.io/asset/EthereumPow/0x9fed227e39460614b41206cdb1cb37363393f60f/",
   },
 ];
