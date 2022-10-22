@@ -149,7 +149,7 @@ function App() {
                           alt=""
                         />
                       </span>{" "}
-                      <span>My Token Balance</span>
+                      <span>Balance</span>
                     </div>
                   </h2>
                   <p>{balance} $POWP</p>
@@ -227,7 +227,7 @@ function App() {
                           alt=""
                         />
                       </span>{" "}
-                      <span>Total Reward Paidout</span>
+                      <span>Total Paidout</span>
                     </div>
                   </h2>
 

@@ -1,6 +1,6 @@
 export const MenuItemList = [
   {
-    label: "HOME",
+    label: "Home",
     link: "https://powpirates.com/",
   },
   {
