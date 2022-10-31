@@ -167,7 +167,7 @@ function App() {
                           alt=""
                         />
                       </span>{" "}
-                      <span>The Total Staked</span>
+                      <span>Total Staked</span>
                     </div>
                   </h2>
                   <p>{totalStakedPercentage}%</p>
