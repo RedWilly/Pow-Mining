@@ -157,7 +157,7 @@ function App() {
               </div>
               <div className="flex justify-between items-center">
                 {/* 3 */}
-                <div className="flex-col justify-between items-center">
+                {/*<div className="flex-col justify-between items-center">
                   <h2 className="text-lg">
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
@@ -171,7 +171,7 @@ function App() {
                     </div>
                   </h2>
                   <p>{totalStakedPercentage}%</p>
-                </div>
+                </div>*/}
 
                 {/* 4 */}
                 <div className="flex-col justify-between items-center">
@@ -199,7 +199,7 @@ function App() {
             >
               <div className="flex justify-between items-center">
                 {/* 1 */}
-                <div className="flex-col justify-between items-center">
+                {/*<div className="flex-col justify-between items-center">
                   <h2 className="text-lg">
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
@@ -209,11 +209,28 @@ function App() {
                           alt=""
                         />
                       </span>{" "}
-                      <span>Hashrate</span>
+                      <span>Emission</span>
                     </div>
                   </h2>
 
                   <p>{rate} $POWP/block</p>
+                </div>*/}
+
+<div className="flex-col justify-between items-center">
+                  <h2 className="text-lg">
+                    <div className="flex justify-center items-center space-x-3">
+                      <span className="ml-[-27px]">
+                        <img
+                          className="w-[15px] h-[15px] bg-[#fe009c] p-[1.5px]"
+                          src={icon5}
+                          alt=""
+                        />
+                      </span>{" "}
+                      <span>Total Earned</span>
+                    </div>
+                  </h2>
+
+                  <p>{earnings} $POWP</p>
                 </div>
 
                 {/* 2 */}
@@ -236,7 +253,7 @@ function App() {
               </div>
               <div className="flex justify-start items-center">
                 {/* 3 */}
-                <div className="flex-col justify-between items-center">
+                {/*<div className="flex-col justify-between items-center">
                   <h2 className="text-lg">
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
@@ -251,7 +268,7 @@ function App() {
                   </h2>
 
                   <p>{earnings} $POWP</p>
-                </div>
+                </div>*/}
               </div>
               
               <button
