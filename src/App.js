@@ -179,9 +179,9 @@ function App() {
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
                         <img
-                          className="w-[15px] h-[15px] bg-[#fe009c] p-[1px]"
-                          src={icon2}
-                          alt=""
+                            className="w-[15px] h-[15px] bg-[#fe009c] p-[1px]"
+                            src={icon2}
+                            alt=""
                         />
                       </span>{" "}
                       <span>My Power</span>
@@ -199,7 +199,7 @@ function App() {
             >
               <div className="flex justify-between items-center">
                 {/* 1 */}
-                <div className="flex-col justify-between items-center">
+                {/*<div className="flex-col justify-between items-center">
                   <h2 className="text-lg">
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
@@ -214,9 +214,9 @@ function App() {
                   </h2>
 
                   <p>{rate} $POWP/block</p>
-                </div>
+                </div>*/}
 
-                <div className="flex-col justify-between items-center">
+<div className="flex-col justify-between items-center">
                   <h2 className="text-lg">
                     <div className="flex justify-center items-center space-x-3">
                       <span className="ml-[-27px]">
@@ -270,7 +270,7 @@ function App() {
                   <p>{earnings} $POWP</p>
                 </div>*/}
               </div>
-
+              
               <button
                 className="stake-button bg-[#fe009c] w-[100%] px-20 mt-3 mb-1 py-2 text-black font-bold"
                 onClick={() => {

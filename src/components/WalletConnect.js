@@ -25,13 +25,13 @@ export const WalletConnectt = () => {
 
     (async () => {
       if (account && window.ethereum) {
-        if (chainId !== 195) {
-          console.log(chainId, 195);
+        if (chainId !== 10001) {
+          console.log(chainId, 10001);
           console.log(account);
           try {
             await library.provider.request({
               method: "wallet_switchEthereumChain",
-              params: [{ chainId: "0x" + (195).toString(16) }],
+              params: [{ chainId: "0x" + (10001).toString(16) }],
             });
           } catch (switchError) {
             console.log("Switch Error", switchError);
